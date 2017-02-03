@@ -1,0 +1,12 @@
+pwsafe (0.2.0-2) unstable; urgency=low
+
+  * Updated Build-Depends. Closes: #335517.
+
+ -- Sam Johnston <samj@aos.net.au>  Wed, 26 Oct 2005 04:13:37 +1000
+
+pwsafe (0.2.0-1) unstable; urgency=low
+
+  * Initial Release.
+
+ -- Sam Johnston <samj@aos.net.au>  Sun, 23 Oct 2005 09:37:34 +1000
+
