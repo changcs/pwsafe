@@ -1,0 +1,13 @@
+* pwsafe command line encrypted password database manager
+
+** pwsafe is a unix commandline program that manages encrypted password databases.
+
+#+BEGIN_QUOTE
+To build the deb file, run
+
+$ apt-get install libncursesw5-dev libpam0g-dev debhelper dpatch
+
+$ export LANG=C LC_CTYPE=C
+
+$ dpkg-buildpackage -rfakeroot -b
+#+END_QUOTE
