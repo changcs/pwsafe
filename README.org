@@ -7,6 +7,8 @@ To build the deb file, run
 
 $ apt-get install libncursesw5-dev libpam0g-dev debhelper dpatch
 
+$ apt-get install libreadline-dev libssl-dev
+
 $ export LANG=C LC_CTYPE=C
 
 $ dpkg-buildpackage -rfakeroot -b
